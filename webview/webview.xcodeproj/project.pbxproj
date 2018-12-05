@@ -19,6 +19,7 @@
 		6D0A972F215E135E009A5158 /* ThirdTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A972E215E135E009A5158 /* ThirdTabViewController.swift */; };
 		6D0A9733215E148F009A5158 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A9732215E148F009A5158 /* TabBarViewController.swift */; };
 		6D0A9735215E1749009A5158 /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A9734215E1749009A5158 /* LanguageViewController.swift */; };
+		6D5D279C21B809850067C181 /* Read me in Resources */ = {isa = PBXBuildFile; fileRef = 6D5D279B21B809850067C181 /* Read me */; };
 		6DEA7238215E036B00B3EDFA /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEA7237215E036B00B3EDFA /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		6D0A972E215E135E009A5158 /* ThirdTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdTabViewController.swift; sourceTree = "<group>"; };
 		6D0A9732215E148F009A5158 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		6D0A9734215E1749009A5158 /* LanguageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageViewController.swift; sourceTree = "<group>"; };
+		6D5D279B21B809850067C181 /* Read me */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Read me"; sourceTree = "<group>"; };
 		6DEA7237215E036B00B3EDFA /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -121,6 +123,7 @@
 				4A7645EE212B1DC80047B0E4 /* Assets.xcassets */,
 				4A7645F0212B1DC80047B0E4 /* LaunchScreen.storyboard */,
 				4A7645F3212B1DC80047B0E4 /* Info.plist */,
+				6D5D279B21B809850067C181 /* Read me */,
 			);
 			path = webview;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A7645F2212B1DC80047B0E4 /* LaunchScreen.storyboard in Resources */,
+				6D5D279C21B809850067C181 /* Read me in Resources */,
 				4A7645EF212B1DC80047B0E4 /* Assets.xcassets in Resources */,
 				4A7645ED212B1DC70047B0E4 /* Main.storyboard in Resources */,
 			);
