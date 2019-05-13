@@ -19,6 +19,7 @@
 		6D0A972F215E135E009A5158 /* ThirdTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A972E215E135E009A5158 /* ThirdTabViewController.swift */; };
 		6D0A9733215E148F009A5158 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A9732215E148F009A5158 /* TabBarViewController.swift */; };
 		6D0A9735215E1749009A5158 /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D0A9734215E1749009A5158 /* LanguageViewController.swift */; };
+		6D1568AD2289EDB50050DA55 /* read me 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D1568AC2289EDB50050DA55 /* read me 3.swift */; };
 		6D5D279C21B809850067C181 /* Read me in Resources */ = {isa = PBXBuildFile; fileRef = 6D5D279B21B809850067C181 /* Read me */; };
 		6D5D279E21B80BAD0067C181 /* hello in Resources */ = {isa = PBXBuildFile; fileRef = 6D5D279D21B80BAD0067C181 /* hello */; };
 		6DEA7238215E036B00B3EDFA /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEA7237215E036B00B3EDFA /* NewViewController.swift */; };
@@ -60,6 +61,7 @@
 		6D0A972E215E135E009A5158 /* ThirdTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdTabViewController.swift; sourceTree = "<group>"; };
 		6D0A9732215E148F009A5158 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		6D0A9734215E1749009A5158 /* LanguageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageViewController.swift; sourceTree = "<group>"; };
+		6D1568AC2289EDB50050DA55 /* read me 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "read me 3.swift"; sourceTree = "<group>"; };
 		6D5D279B21B809850067C181 /* Read me */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Read me"; sourceTree = "<group>"; };
 		6D5D279D21B80BAD0067C181 /* hello */ = {isa = PBXFileReference; lastKnownFileType = text; path = hello; sourceTree = "<group>"; };
 		6DEA7237215E036B00B3EDFA /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				4A7645F3212B1DC80047B0E4 /* Info.plist */,
 				6D5D279B21B809850067C181 /* Read me */,
 				6D5D279D21B80BAD0067C181 /* hello */,
+				6D1568AC2289EDB50050DA55 /* read me 3.swift */,
 			);
 			path = webview;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				6D0A972D215E1352009A5158 /* SecondTabViewController.swift in Sources */,
 				6D0A972B215E1345009A5158 /* FirstTabViewController.swift in Sources */,
 				6D0A9733215E148F009A5158 /* TabBarViewController.swift in Sources */,
+				6D1568AD2289EDB50050DA55 /* read me 3.swift in Sources */,
 				4A7645EA212B1DC70047B0E4 /* ViewController.swift in Sources */,
 				4A7645E8212B1DC70047B0E4 /* AppDelegate.swift in Sources */,
 			);
